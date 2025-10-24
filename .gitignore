@@ -1,0 +1,41 @@
+# LaTeX intermediate files
+*.aux
+*.bbl
+*.bcf
+*.blg
+*.idx
+*.ilg
+*.ind
+*.lof
+*.log
+*.lot
+*.out
+*.toc
+*.acn
+*.acr
+*.alg
+*.glg
+*.glo
+*.gls
+*.fls
+*.fdb_latexmk
+*.synctex.gz
+*.run.xml
+*.nav
+*.snm
+*.vrb
+
+# PDF and other final output (optional)
+# *.pdf
+*.dvi
+*.ps
+
+# Backup files
+*~
+*.bak
+*.backup
+
+# Editor-specific files
+.vscode/
+.idea/
+*.swp
